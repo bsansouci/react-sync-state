@@ -1,0 +1,39 @@
+{
+  "name": "react-sync-state",
+  "version": "1.0.0",
+  "description": "react-sync-state",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsansouci/react-sync-state.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "hot",
+    "hot",
+    "reload",
+    "hmr",
+    "live",
+    "edit",
+    "webpack"
+  ],
+  "author": "Benjamin San Souci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsansouci/react-sync-state/issues"
+  },
+  "homepage": "https://github.com/bsansouci/react-sync-state",
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "react-hot-loader": "^1.1.1",
+    "webpack": "^1.5.1",
+    "webpack-dev-server": "1.6.4"
+  },
+  "dependencies": {
+    "react": "^0.12.0"
+  }
+}
